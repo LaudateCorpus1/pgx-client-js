@@ -7,7 +7,7 @@
     "test": "test"
   },
   "dependencies": {
-    "cookie": "0.2.3",
+    "cookie": "0.7.0",
     "request": "2.83.0"
   },
   "devDependencies": {
